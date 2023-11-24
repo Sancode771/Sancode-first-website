@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  background: url(/3d89a2d16e8090459f8d5254eb4a048c.jpg);
+  color: white;
+}
+h1{
+  color: royalblue;
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+.center{
+  display: block;
+  margin-left: 25%;
+ 
+  width: 50%;
+}
+ .medium {
+   text-align: center;
+   font-size: 10vw;
+  
+ }
+ .Rohit{
+   /df184cca943cac839146e8eb3969b942.jpg
+ }
+ 
+ h2{
+   color: white;
+ }
+
+ .Sharma{
+   border-style: groove;
+   text-align: center;
+   margin-left: 25%;
+   margin-right: 25%;
+   
+ }
+div.s{
+   
+ width: 200px;
+  height: 400px;
+  object-fit: none;
+  object-position: 5px 10%;
+  border: 5px solid red;
+  
+ }

@@ -1,0 +1,29 @@
+body {
+  background: url(/rcb-1080-x-1920-background-4xruhawhm7jlatfr.jpg);
+}
+
+
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+.v{
+  display: block;
+  margin-left: 25%;
+  width: 50%;
+}
+.virat{
+  text-align: center;
+  font-size: 10vw;
+  color: #565EB8;
+}
+.Kohli{
+  
+  
+  width: 300px; /* Set the desired width */
+  height: 500px; /* Set the desired height */
+ margin-left: 30%;
+}
